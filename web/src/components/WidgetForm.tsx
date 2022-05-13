@@ -3,7 +3,7 @@ import { useState } from "react";
 import { CloseButton } from "./CloseButton";
 
 import bugImageUrl from '../assets/bug.svg';
-import idealImageUrl from '../assets/ideia.svg';
+import idealImageUrl from '../assets/idea.svg';
 import thoughtImageUrl from '../assets/thought.svg';
 
 
