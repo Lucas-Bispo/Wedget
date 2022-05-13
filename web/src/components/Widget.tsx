@@ -6,7 +6,7 @@ import {WidgetForm} from './WidgetForm';
 export function Widget(){
     
     return (
-        <Popover className="absolute bottom-5 right-5 flex-col itens-end">
+        <Popover className="absolute bottom-4 right-4 md:bottom-10 md:right-10 flex flex-col itens-end">
           <Popover.Panel>
               <WidgetForm/>
           </Popover.Panel>
