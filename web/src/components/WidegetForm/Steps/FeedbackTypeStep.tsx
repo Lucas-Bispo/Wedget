@@ -1,4 +1,5 @@
 import { FeedbackType ,feedbackTypes } from ".."
+import { CloseButton } from "../../CloseButton";
 
 interface FeedbackTypeStepProps{
     onFeedbackTypeChanged: (type: FeedbackType) => void;
@@ -7,7 +8,7 @@ interface FeedbackTypeStepProps{
 
 export function FeedbackTypeStep({onFeedbackTypeChanged}: FeedbackTypeStepProps){
     return(
-        
+        <>
         <header>
             <span className="text-xl leading-6">Deisxe seu Feedback</span>
         
@@ -33,5 +34,6 @@ export function FeedbackTypeStep({onFeedbackTypeChanged}: FeedbackTypeStepProps)
             }
 
         </div>
+        </>
     )
 }
