@@ -3,6 +3,7 @@
     "nodemailer": "^6.7.5"
   },
   "devDependencies": {
+    "@types/jest": "^27.5.1",
     "@types/nodemailer": "^6.4.4"
   }
 }
