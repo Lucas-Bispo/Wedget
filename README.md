@@ -209,7 +209,7 @@
   
   ## 🚀 Desenvolvido em
   
-  06 de mai. de 2022
+  22 de mai. de 2022
   
   <p align="center">✨ Feito com muito foco por <a href="https://github.com/riandeoliveira"><strong>Lucas Bispo</strong></a> ✨</p>
   
