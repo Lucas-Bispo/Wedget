@@ -1,5 +1,5 @@
 import express from 'express';
-import nodemailer from 'nodemailer'
+import nodemailer from 'nodemailer';
 import { NodemailerMailAdapter } from './adapters/nodemailer/nodemailer-mail-adapter';
 
 
