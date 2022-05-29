@@ -39,7 +39,7 @@
   
   ## 💻 Como acessar
   
- ## A aplicação está hospedada na  e pode ser acessada [aqui](link).##
+ ## A aplicação está hospedada na  e pode ser acessada [aqui](https://wedget-lucas-bispo.vercel.app).##
   
   ## 🛠️ Tecnologias utilizadas
   
