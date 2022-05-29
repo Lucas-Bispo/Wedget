@@ -62,10 +62,10 @@ export const WidgetForm = () => {
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com 🤍 pela{" "}
+        Feito com 🤍 por{"Lucas Bispo"}
         <a
           className="underline underline-offset-1"
-          href="https://rocketseat.com.br"
+          href="https://lucas-bispo.github.io"
           target="_blank"
         >
           Rocketseat
