@@ -62,13 +62,13 @@ export const WidgetForm = () => {
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com 🤍 por{"Lucas Bispo"}
+        Feito com 🤍 por{""}
         <a
           className="underline underline-offset-1"
           href="https://lucas-bispo.github.io"
           target="_blank"
         >
-          Rocketseat
+          Lucas Bispo
         </a>
       </footer>
     </div>
