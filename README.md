@@ -211,5 +211,5 @@
   
   22 de mai. de 2022
   
-  <p align="center">✨ Feito com muito foco por <a href="https://github.com/riandeoliveira"><strong>Lucas Bispo</strong></a> ✨</p>
+  <p align="center">✨ Feito com muito foco por <a href="https://github.com/Lucas-Bispo"><strong>Lucas Bispo</strong></a> ✨</p>
   
